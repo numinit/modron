@@ -23,3 +23,10 @@ Changes _must_ be unit tested, style checked, and linted.
 * To unit test: `python setup.py test`
 * To style check: `python setup.py style`
 * To lint: `python setup.py lint`
+* To run a build/install the executable: `python setup.py build install`.
+  The executable will be in `bin/modron`. Run it for usage details.
+
+## Examples
+
+* Guess and dump the provided multi-file CSV schema over HTTPS:
+  `modron https://raw.githubusercontent.com/numinit/modron/master/modron/test/test_schematizer/bestiary_{1,4}.csv`
