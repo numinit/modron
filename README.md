@@ -14,7 +14,11 @@ to the directory, and `source bin/activate`.
 
 To install dependencies, _with the virtualenv activated_, run
 `python setup.py develop`. pandas and its dependencies take a while to
-compile, grab a coffee.
+compile, grab a coffee. Your machine will be compiling numpy, too.
+
+## Dockering
+
+`docker build -t modron .`
 
 ## Contributing
 

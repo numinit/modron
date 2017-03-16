@@ -9,8 +9,8 @@ exec(open(os.path.join(
 )).read())
 
 
-if sys.version_info < (3, 5):
-    raise RuntimeError('%s requires python 3.5+' % __package_name__)
+if sys.version_info < (3, 4):
+    raise RuntimeError('%s requires python 3.4+' % __package_name__)
 
 class PytestCommand(TestCommand):
     def finalize_options(self):
