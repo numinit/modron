@@ -29,4 +29,4 @@ Changes _must_ be unit tested, style checked, and linted.
 ## Examples
 
 * Guess and dump the provided multi-file CSV schema over HTTPS:
-  `modron https://raw.githubusercontent.com/numinit/modron/master/modron/test/test_schematizer/bestiary_{1,4}.csv`
+  `modron https://raw.githubusercontent.com/numinit/modron/master/modron/test/test_schematizer/bestiary_{1..4}.csv`

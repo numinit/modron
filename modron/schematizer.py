@@ -119,7 +119,7 @@ class Schematizer:
             # Get the datatype counts
             for idx, dtype in enumerate(chunk.dtypes):
                 column = columns[idx]
-                column.add_type_counts(dtype, 1)
+                column.add_type_counts(dtype, chunk.shape[0])
 
             # TODO (mjones): store the chunk
 
