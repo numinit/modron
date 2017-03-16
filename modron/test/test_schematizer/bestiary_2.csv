@@ -1,0 +1,103 @@
+# This is a gnarly comment, followed by a blank line. Sorry.
+
+id,tag,name,description,alignment,languages,num_languages,ac,hp,speed,challenge
+101,ghost,Ghost,Medium undead,any alignment,any languages it knew in life,1,11,45 (10d8),0,4
+102,ghoul,Ghoul,Medium undead,chaotic evil,Common,1,12,22 (5d8),30,1
+103,giant-ape,Giant Ape,Huge beast,unaligned,,,12,157 (15d12 + 60),40,7
+104,giant-badger,Giant Badger,Medium beast,unaligned,,,10,13 (2d8 + 4),30,1
+105,giant-bat,Giant Bat,Large beast,unaligned,,,13,22 (4d10),10,1
+106,giant-boar,Giant Boar,Large beast,unaligned,,,12,42 (5d10 + 15),40,2
+107,giant-centipede,Giant Centipede,Small beast,unaligned,,,13,4 (1d6 + 1),30,1
+108,giant-constrictor-snake,Giant Constrictor Snake,Huge beast,unaligned,,,12,60 (8d12 + 8),30,2
+109,giant-crab,Giant Crab,Medium beast,unaligned,,,15,13 (3d8),30,1
+110,giant-crocodile,Giant Crocodile,Huge beast,unaligned,,,14,85 (9d12 + 27),30,5
+111,giant-eagle,Giant Eagle,Large beast,neutral good,"Giant Eagle, understands Common and Auran but can’t speak them",2,13,26 (4d10 + 4),10,1
+112,giant-elk,Giant Elk,Huge beast,unaligned,"Giant Elk, understands Common, Elvish, and Sylvan but can’t speak them",4,14,42 (5d12 + 10),60,2
+113,giant-fire-beetle,Giant Fire Beetle,Small beast,unaligned,,,13,4 (1d6 + 1),30,0
+114,giant-frog,Giant Frog,Medium beast,unaligned,,,11,18 (4d8),30,1
+115,giant-goat,Giant Goat,Large beast,unaligned,,,11,19 (3d10 + 3),40,1
+116,giant-hyena,Giant Hyena,Large beast,unaligned,,,12,45 (6d10 + 12),50,1
+117,giant-lizard,Giant Lizard,Large beast,unaligned,,,12,19 (3d10 + 3),30,1
+118,giant-octopus,Giant Octopus,Large beast,unaligned,,,11,52 (8d10 + 8),10,1
+119,giant-owl,Giant Owl,Large beast,neutral,"Giant Owl, understands Common, Elvish, and Sylvan but can’t speak them",4,12,19 (3d10 + 3),5,1
+120,giant-poisonous-snake,Giant Poisonous Snake,Medium beast,unaligned,,,14,11 (2d8 + 2),30,1
+121,giant-rat,Giant Rat,Small beast,unaligned,,,12,7 (2d6),30,1
+122,giant-scorpion,Giant Scorpion,Large beast,unaligned,,,15,52 (7d10 + 14),40,3
+123,giant-sea-horse,Giant Sea Horse,Large beast,unaligned,,,13,16 (3d10),0,1
+124,giant-shark,Giant Shark,Huge beast,unaligned,,,13,126 (11d12 + 55),0,5
+125,giant-spider,Giant Spider,Large beast,unaligned,,,14,26 (4d10 + 4),30,1
+126,giant-toad,Giant Toad,Large beast,unaligned,,,11,39 (6d10 + 6),20,1
+127,giant-vulture,Giant Vulture,Large beast,neutral evil,understands Common but can’t speak,1,10,22 (3d10 + 6),10,1
+128,giant-wasp,Giant Wasp,Medium beast,unaligned,,,12,13 (3d8),10,1
+129,giant-weasel,Giant Weasel,Medium beast,unaligned,,,13,9 (2d8),40,1
+130,giant-wolf-spider,Giant Wolf Spider,Medium beast,unaligned,,,13,11 (2d8 + 2),40,1
+131,gibbering-mouther,Gibbering Mouther,Medium aberration,neutral,,,9,67 (9d8 + 27),10,2
+132,glabrezu,Glabrezu,Large fiend (demon),chaotic evil,"Abyssal, telepathy 120 ft.",2,17,157 (15d10 + 75),40,9
+133,gnoll,Gnoll,Medium humanoid (gnoll),chaotic evil,Gnoll,1,15,22 (5d8),30,1
+134,gnome-deep-svirfneblin,"Gnome, Deep (Svirfneblin)",Small humanoid (gnome),neutral good,"Gnomish, Terran, Undercommon",3,15,16 (3d6 + 6),20,1
+135,goat,Goat,Medium beast,unaligned,,,10,4 (1d8),40,0
+136,goblin,Goblin,Small humanoid (goblinoid),neutral evil,"Common, Goblin",2,15,7 (2d6),30,1
+137,gold-dragon-wyrmling,Gold Dragon Wyrmling,Medium dragon,lawful good,Draconic,1,17,60 (8d8 + 24),30,3
+138,gorgon,Gorgon,Large monstrosity,unaligned,,,19,114 (12d10 + 48),40,5
+139,gray-ooze,Gray Ooze,Medium ooze,unaligned,,,8,22 (3d8 + 9),10,1
+140,green-dragon-wyrmling,Green Dragon Wyrmling,Medium dragon,lawful evil,Draconic,1,17,38 (7d8 + 7),30,2
+141,green-hag,Green Hag,Medium fey,neutral evil,"Common, Draconic, Sylvan",3,17,82 (11d8 + 33),30,3
+142,grick,Grick,Medium monstrosity,neutral,,,14,27 (6d8),30,2
+143,griffon,Griffon,Large monstrosity,unaligned,,,12,59 (7d10 + 21),30,2
+144,grimlock,Grimlock,Medium humanoid (grimlock),neutral evil,Undercommon,1,11,11 (2d8 + 2),30,1
+145,guardian-naga,Guardian Naga,Large monstrosity,lawful good,"Celestial, Common",2,18,127 (15d10 + 45),40,10
+146,gynosphinx,Gynosphinx,Large monstrosity,lawful neutral,"Common, Sphinx",2,17,136 (16d10 + 48),40,11
+147,half-red-dragon-veteran,Half-Red Dragon Veteran,Medium humanoid (human),any alignment,"Common, Draconic",2,18,65 (10d8 + 20),30,5
+148,harpy,Harpy,Medium monstrosity,chaotic evil,Common,1,11,38 (7d8 + 7),20,1
+149,hawk,Hawk,Tiny beast,unaligned,,,13,1 (1d4 − 1),10,0
+150,hell-hound,Hell Hound,Medium fiend,lawful evil,understands Infernal but can’t speak it,1,15,45 (7d8 + 14),50,3
+151,hezrou,Hezrou,Large fiend (demon),chaotic evil,"Abyssal, telepathy 120 ft.",2,16,136 (13d10 + 65),30,8
+152,hill-giant,Hill Giant,Huge giant,chaotic evil,Giant,1,13,105 (10d12 + 40),40,5
+153,hippogriff,Hippogriff,Large monstrosity,unaligned,,,11,19 (3d10 + 3),40,1
+154,hobgoblin,Hobgoblin,Medium humanoid (goblinoid),lawful evil,"Common, Goblin",2,18,11 (2d8 + 2),30,1
+155,homunculus,Homunculus,Tiny construct,neutral,understands the languages of its creator but can’t speak,1,13,5 (2d4),20,0
+156,horned-devil,Horned Devil,Large fiend (devil),lawful evil,"Infernal, telepathy 120 ft.",2,18,148 (17d10 + 55),20,11
+157,hunter-shark,Hunter Shark,Large beast,unaligned,,,12,45 (6d10 + 12),0,2
+158,hydra,Hydra,Huge monstrosity,unaligned,,,15,172 (15d12 + 75),30,8
+159,hyena,Hyena,Medium beast,unaligned,,,11,5 (1d8 + 1),50,0
+160,ice-devil,Ice Devil,Large fiend (devil),lawful evil,"Infernal, telepathy 120 ft.",2,18,180 (19d10 + 76),40,14
+161,ice-mephit,Ice Mephit,Small elemental,neutral evil,"Aquan, Auran",2,11,21 (6d6),30,1
+162,imp,Imp,"Tiny fiend (devil, shapechanger)",lawful evil,"Infernal, Common",2,13,10 (3d4 + 3),20,1
+163,invisible-stalker,Invisible Stalker,Medium elemental,neutral,"Auran, understands Common but doesn’t speak it",2,14,104 (16d8 + 32),50,6
+164,iron-golem,Iron Golem,Large construct,unaligned,understands the languages of its creator but can’t speak,1,20,210 (20d10 + 100),30,16
+165,jackal,Jackal,Small beast,unaligned,,,12,3 (1d6),40,0
+166,killer-whale,Killer Whale,Huge beast,unaligned,,,12,90 (12d12 + 12),0,3
+167,kobold,Kobold,Small humanoid (kobold),lawful evil,"Common, Draconic",2,12,5 (2d6 − 2),30,1
+168,kraken,Kraken,Gargantuan monstrosity (titan),chaotic evil,"understands Abyssal, Celestial, Infernal, and Primordial but can’t speak, telepathy 120 ft.",5,18,472 (27d20 + 189),20,23
+169,lamia,Lamia,Large monstrosity,chaotic evil,"Abyssal, Common",2,13,97 (13d10 + 26),30,4
+170,lemure,Lemure,Medium fiend (devil),lawful evil,understands Infernal but can’t speak,1,7,13 (3d8),15,0
+171,lich,Lich,Medium undead,any evil,Common plus up to five other languages,1,17,135 (18d8 + 54),30,21
+172,lion,Lion,Large beast,unaligned,,,12,26 (4d10 + 4),50,1
+173,lizard,Lizard,Tiny beast,unaligned,,,10,2 (1d4),20,0
+174,lizardfolk,Lizardfolk,Medium humanoid (lizardfolk),neutral,Draconic,1,15,22 (4d8 + 4),30,1
+175,magma-mephit,Magma Mephit,Small elemental,neutral evil,"Ignan, Terran",2,11,22 (5d6 + 5),30,1
+176,magmin,Magmin,Small elemental,chaotic neutral,Ignan,1,14,9 (2d6 + 2),30,1
+177,mammoth,Mammoth,Huge beast,unaligned,,,13,126 (11d12 + 55),40,6
+178,manticore,Manticore,Large monstrosity,lawful evil,Common,1,14,68 (8d10 + 24),30,3
+179,marilith,Marilith,Large fiend (demon),chaotic evil,"Abyssal, telepathy 120 ft.",2,18,189 (18d10 + 90),40,16
+180,mastiff,Mastiff,Medium beast,unaligned,,,12,5 (1d8 + 1),40,1
+181,medusa,Medusa,Medium monstrosity,lawful evil,Common,1,15,127 (17d8 + 51),30,6
+182,merfolk,Merfolk,Medium humanoid (merfolk),neutral,"Aquan, Common",2,11,11 (2d8 + 2),10,1
+183,merrow,Merrow,Large monstrosity,chaotic evil,"Abyssal, Aquan",2,13,45 (6d10 + 12),10,2
+184,mimic,Mimic,Medium monstrosity (shapechanger),neutral,,,12,58 (9d8 + 18),15,2
+185,minotaur-skeleton,Minotaur Skeleton,Large undead,lawful evil,understands Abyssal but can’t speak,1,12,67 (9d10 + 18),40,2
+186,minotaur,Minotaur,Large monstrosity,chaotic evil,Abyssal,1,14,76 (9d10 + 27),40,3
+187,mule,Mule,Medium beast,unaligned,,,10,11 (2d8 + 2),40,1
+188,mummy-lord,Mummy Lord,Medium undead,lawful evil,the languages it knew in life,1,17,97 (13d8 + 39),20,15
+189,mummy,Mummy,Medium undead,lawful evil,the languages it knew in life,1,11,58 (9d8 + 18),20,3
+190,nalfeshnee,Nalfeshnee,Large fiend (demon),chaotic evil,"Abyssal, telepathy 120 ft.",2,18,184 (16d10 + 96),20,13
+191,night-hag,Night Hag,Medium fiend,neutral evil,"Abyssal, Common, Infernal, Primordial",4,17,112 (15d8 + 45),30,5
+192,nightmare,Nightmare,Large fiend,neutral evil,"understands Abyssal, Common, and Infernal but can’t speak",3,13,68 (8d10 + 24),60,3
+193,ochre-jelly,Ochre Jelly,Large ooze,unaligned,,,8,45 (6d10 + 12),10,2
+194,octopus,Octopus,Small beast,unaligned,,,12,3 (1d6),5,0
+195,ogre-zombie,Ogre Zombie,Large undead,neutral evil,understands Common and Giant but can’t speak,1,8,85 (9d10 + 36),30,2
+196,ogre,Ogre,Large giant,chaotic evil,"Common, Giant",2,11,59 (7d10 + 21),40,2
+197,oni,Oni,Large giant,lawful evil,"Common, Giant",2,16,110 (13d10 + 39),30,7
+198,orc,Orc,Medium humanoid (orc),chaotic evil,"Common, Orc",2,13,15 (2d8 + 6),30,1
+199,otyugh,Otyugh,Large aberration,neutral,Otyugh,1,14,114 (12d10 + 48),30,5
+200,owl,Owl,Tiny beast,unaligned,,,11,1 (1d4 − 1),5,0

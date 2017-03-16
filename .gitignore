@@ -1,0 +1,17 @@
+.DS_Store
+*.swo
+*.swp
+
+*.py[cod]
+*.egg-info
+/pip-selfcheck.json
+/.Python
+/.cache
+/.eggs
+/build
+/dist
+/bin
+/lib
+/include
+__pycache__
+

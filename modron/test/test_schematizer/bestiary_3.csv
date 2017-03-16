@@ -1,0 +1,103 @@
+# This is a gnarly comment, followed by a blank line. Sorry.
+
+id,tag,name,description,alignment,languages,num_languages,ac,hp,speed,challenge
+201,owlbear,Owlbear,Large monstrosity,unaligned,,,13,59 (7d10 + 21),40,3
+202,panther,Panther,Medium beast,unaligned,,,12,13 (3d8),50,1
+203,pegasus,Pegasus,Large celestial,chaotic good,"understands Celestial, Common, Elvish, and Sylvan but can’t speak",4,12,59 (7d10 + 21),60,2
+204,phase-spider,Phase Spider,Large monstrosity,unaligned,—380,1,13,32 (5d10 + 5),30,3
+205,pit-fiend,Pit Fiend,Large fiend (devil),lawful evil,"Infernal, telepathy 120 ft.",2,19,300 (24d10 + 168),30,20
+206,planetar,Planetar,Large celestial,lawful good,"all, telepathy 120 ft.",2,19,200 (16d10 + 112),40,16
+207,plesiosaurus,Plesiosaurus,Large beast,unaligned,,,13,68 (8d10 + 24),20,2
+208,poisonous-snake,Poisonous Snake,Tiny beast,unaligned,,,13,2 (1d4),30,1
+209,polar-bear,Polar Bear,Large beast,unaligned,,,12,42 (5d10 + 15),40,2
+210,pony,Pony,Medium beast,unaligned,,,10,11 (2d8 + 2),40,1
+211,pseudodragon,Pseudodragon,Tiny dragon,neutral good,understands Common and Draconic but can’t speak,1,13,7 (2d4 + 2),15,1
+212,purple-worm,Purple Worm,Gargantuan monstrosity,unaligned,,,18,247 (15d20 + 90),50,15
+213,quasit,Quasit,"Tiny fiend (demon, shapechanger)",chaotic evil,"Abyssal, Common",2,13,7 (3d4),40,1
+214,quipper,Quipper,Tiny beast,unaligned,,,13,1 (1d4 − 1),0,0
+215,rakshasa,Rakshasa,Medium fiend,lawful evil,"Common, Infernal",2,16,110 (13d8 + 52),40,13
+216,rat,Rat,Tiny beast,unaligned,,,10,1 (1d4 − 1),20,0
+217,raven,Raven,Tiny beast,unaligned,,,12,1 (1d4 − 1),10,0
+218,red-dragon-wyrmling,Red Dragon Wyrmling,Medium dragon,chaotic evil,Draconic,1,17,75 (10d8 + 30),30,4
+219,reef-shark,Reef Shark,Medium beast,unaligned,,,12,22 (4d8 + 4),0,1
+220,remorhaz,Remorhaz,Huge monstrosity,unaligned,,,17,195 (17d12 + 85),30,11
+221,rhinoceros,Rhinoceros,Large beast,unaligned,,,11,45 (6d10 + 12),40,2
+222,riding-horse,Riding Horse,Large beast,unaligned,,,10,13 (2d10 + 2),60,1
+223,roc,Roc,Gargantuan monstrosity,unaligned,,,15,248 (16d20 + 80),20,11
+224,roper,Roper,Large monstrosity,neutral evil,,,20,93 (11d10 + 33),10,5
+225,rug-of-smothering,Rug of Smothering,Large construct,unaligned,,,12,33 (6d10),10,2
+226,rust-monster,Rust Monster,Medium monstrosity,unaligned,,,14,27 (5d8 + 5),40,1
+227,saber-toothed-tiger,Saber-Toothed Tiger,Large beast,unaligned,,,12,52 (7d10 + 14),40,2
+228,sahuagin,Sahuagin,Medium humanoid (sahuagin),lawful evil,Sahuagin,1,12,22 (4d8 + 4),30,1
+229,salamander,Salamander,Large elemental,neutral evil,Ignan,1,15,90 (12d10 + 24),30,5
+230,satyr,Satyr,Medium fey,chaotic neutral,"Common, Elvish, Sylvan",3,14,31 (7d8),40,1
+231,scorpion,Scorpion,Tiny beast,unaligned,,,11,1 (1d4 − 1),10,0
+232,sea-hag,Sea Hag,Medium fey,chaotic evil,"Aquan, Common, Giant",3,14,52 (7d8 + 21),30,2
+233,sea-horse,Sea Horse,Tiny beast,unaligned,,,11,1 (1d4 − 1),0,0
+234,shadow,Shadow,Medium undead,chaotic evil,,,12,16 (3d8 + 3),40,1
+235,shambling-mound,Shambling Mound,Large plant,unaligned,,,15,136 (16d10 + 48),20,5
+236,shield-guardian,Shield Guardian,Large construct,unaligned,understands commands given in any language but can’t speak,1,17,142 (15d10 + 60),30,7
+237,shrieker,Shrieker,Medium plant,unaligned,,,5,13 (3d8),0,0
+238,silver-dragon-wyrmling,Silver Dragon Wyrmling,Medium dragon,lawful good,Draconic,1,17,45 (6d8 + 18),30,2
+239,skeleton,Skeleton,Medium undead,lawful evil,understands all languages it knew in life but can’t speak,1,13,13 (2d8 + 4),30,1
+240,solar,Solar,Large celestial,lawful good,"all, telepathy 120 ft.",2,21,243 (18d10 + 144),50,21
+241,specter,Specter,Medium undead,chaotic evil,understands all languages it knew in life but can’t speak,1,12,22 (5d8),0,1
+242,spider,Spider,Tiny beast,unaligned,,,12,1 (1d4 − 1),20,0
+243,spirit-naga,Spirit Naga,Large monstrosity,chaotic evil,"Abyssal, Common",2,15,75 (10d10 + 20),40,8
+244,sprite,Sprite,Tiny fey,neutral good,"Common, Elvish, Sylvan",3,15,2 (1d4),10,1
+245,steam-mephit,Steam Mephit,Small elemental,neutral evil,"Aquan, Ignan",2,10,21 (6d6),30,1
+246,stirge,Stirge,Tiny beast,unaligned,,,14,2 (1d4),10,1
+247,stone-giant,Stone Giant,Huge giant,neutral,Giant,1,17,126 (11d12 + 55),40,7
+248,stone-golem,Stone Golem,Large construct,unaligned,understands the languages of its creator but can’t speak,1,17,178 (17d10 + 85),30,10
+249,storm-giant,Storm Giant,Huge giant,chaotic good,"Common, Giant",2,16,230 (20d12 + 100),50,13
+250,succubus-incubus,Succubus/Incubus,Medium fiend (shapechanger),neutral evil,"Abyssal, Common, Infernal, telepathy 60 ft.",4,15,66 (12d8 + 12),30,4
+251,swarm-of-bats,Swarm of Bats,Medium swarm of Tiny beasts,unaligned,,,12,22 (5d8),0,1
+252,swarm-of-beetles,Swarm of Beetles,Medium swarm of Tiny beasts,unaligned,,,12,22 (5d8),20,1
+253,swarm-of-centipedes,Swarm of Centipedes,Medium swarm of Tiny beasts,unaligned,,,12,22 (5d8),20,1
+254,swarm-of-insects,Swarm of Insects,Medium swarm of Tiny beasts,unaligned,,,12,22 (5d8),20,1
+255,swarm-of-poisonous-snakes,Swarm of Poisonous Snakes,Medium swarm of Tiny beasts,unaligned,,,14,36 (8d8),30,2
+256,swarm-of-quippers,Swarm of Quippers,Medium swarm of Tiny beasts,unaligned,,,13,28 (8d8 − 8),0,1
+257,swarm-of-rats,Swarm of Rats,Medium swarm of Tiny beasts,unaligned,,,10,24 (7d8 − 7)385,30,1
+258,swarm-of-ravens,Swarm of Ravens,Medium swarm of Tiny beasts,unaligned,,,12,24 (7d8 − 7),10,1
+259,swarm-of-spiders,Swarm of Spiders,Medium swarm of Tiny beasts,unaligned,,,12,22 (5d8),20,1
+260,swarm-of-wasps,Swarm of Wasps,Medium swarm of Tiny beasts,unaligned,,,12,22 (5d8),5,1
+261,tarrasque,Tarrasque,Gargantuan monstrosity (titan),unaligned,,,25,676 (33d20 + 330),40,30
+262,tiger,Tiger,Large beast,unaligned,,,12,37 (5d10 + 10),40,1
+263,treant,Treant,Huge plant,chaotic good,"Common, Druidic, Elvish, Sylvan",4,16,138 (12d12 + 60),30,9
+264,triceratops,Triceratops,Huge beast,unaligned,,,13,95 (10d12 + 30),50,5
+265,troll,Troll,Large giant,chaotic evil,Giant,1,15,84 (8d10 + 40),30,5
+266,tyrannosaurus-rex,Tyrannosaurus Rex,Huge beast,unaligned,,,13,136 (13d12 + 52),50,8
+267,unicorn,Unicorn,Large celestial,lawful good,"Celestial, Elvish, Sylvan, telepathy 60 ft.",4,12,67 (9d10 + 18),50,5
+268,vampire-spawn,Vampire Spawn,Medium undead,neutral evil,the languages it knew in life,1,15,82 (11d8 + 33),30,5
+269,vampire,Vampire,Medium undead (shapechanger),lawful evil,the languages it knew in life,1,16,144 (17d8 + 68),30,13
+270,violet-fungus,Violet Fungus,Medium plant,unaligned,,,5,18 (4d8),5,1
+271,vrock,Vrock,Large fiend (demon),chaotic evil,"Abyssal, telepathy 120 ft.",2,15,104 (11d10 + 44),40,6
+272,vulture,Vulture,Medium beast,unaligned,,,10,5 (1d8 + 1),10,0
+273,warhorse-skeleton,Warhorse Skeleton,Large undead,lawful evil,,,13,22 (3d10 + 6),60,1
+274,warhorse,Warhorse,Large beast,unaligned,,,11,19 (3d10 + 3),60,1
+275,water-elemental,Water Elemental,Large elemental,neutral,Aquan,1,14,114 (12d10 + 48),30,5
+276,weasel,Weasel,Tiny beast,unaligned,,,13,1 (1d4 − 1),30,0
+277,werebear,Werebear,"Medium humanoid (human, shapechanger)",neutral good,Common (can’t speak in bear form),1,10,135 (18d8 + 54),30,5
+278,wereboar,Wereboar,"Medium humanoid (human, shapechanger)",neutral evil,Common (can’t speak in boar form),1,10,78 (12d8 + 24),30,4
+279,wererat,Wererat,"Medium humanoid (human, shapechanger)",lawful evil,Common (can’t speak in rat form),1,12,33 (6d8 + 6),30,2
+280,weretiger,Weretiger,"Medium humanoid (human, shapechanger)",neutral,Common (can’t speak in tiger form),1,12,120 (16d8 + 48),30,4
+281,werewolf,Werewolf,"Medium humanoid (human, shapechanger)",chaotic evil,Common (can’t speak in wolf form),1,11,58 (9d8 + 18),30,3
+282,white-dragon-wyrmling,White Dragon Wyrmling,Medium dragon,chaotic evil,Draconic,1,16,32 (5d8 + 10),30,2
+283,wight,Wight,Medium undead,neutral evil,the languages it knew in life,1,14,45 (6d8 + 18),30,3
+284,will-o-wisp,Will-o'-Wisp,Tiny undead,chaotic evil,the languages it knew in life,1,19,22 (9d4),0,2
+285,winter-wolf,Winter Wolf,Large monstrosity,neutral evil,"Common, Giant, Winter Wolf",3,13,75 (10d10 + 20),50,3
+286,wolf,Wolf,Medium beast,unaligned,,,13,11 (2d8 + 2),40,1
+287,worg,Worg,Large monstrosity,neutral evil,"Goblin, Worg",2,13,26 (4d10 + 4),50,1
+288,wraith,Wraith,Medium undead,neutral evil,the languages it knew in life,1,13,67 (9d8 + 27),0,5
+289,wyvern,Wyvern,Large dragon,unaligned,,,13,110 (13d10 + 39),20,6
+290,xorn,Xorn,Medium elemental,neutral,Terran,1,19,73 (7d8 + 42),20,5
+291,young-black-dragon,Young Black Dragon,Large dragon,chaotic evil,"Common, Draconic",2,18,127 (15d10 + 45),40,7
+292,young-blue-dragon,Young Blue Dragon,Large dragon,lawful evil,"Common, Draconic",2,18,152 (16d10 + 64),40,9
+293,young-brass-dragon,Young Brass Dragon,Large dragon,chaotic good,"Common, Draconic",2,17,110 (13d10 + 39),40,6
+294,young-bronze-dragon,Young Bronze Dragon,Large dragon,lawful good,"Common, Draconic",2,18,142 (15d10 + 60),40,8
+295,young-copper-dragon,Young Copper Dragon,Large dragon,chaotic good,"Common, Draconic",2,17,119 (14d10 + 42),40,7
+296,young-gold-dragon,Young Gold Dragon,Large dragon,lawful good,"Common, Draconic",2,18,178 (17d10 + 85),40,10
+297,young-green-dragon,Young Green Dragon,Large dragon,lawful evil,"Common, Draconic",2,18,136 (16d10 + 48),40,8
+298,young-red-dragon,Young Red Dragon,Large dragon,chaotic evil,"Common, Draconic",2,18,178 (17d10 + 85),40,10
+299,young-silver-dragon,Young Silver Dragon,Large dragon,lawful good,"Common, Draconic",2,18,168 (16d10 + 80),40,9
+300,young-white-dragon,Young White Dragon,Large dragon,chaotic evil,"Common, Draconic",2,17,133 (14d10 + 56),40,6
