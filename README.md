@@ -1,6 +1,6 @@
 # [modron](https://www.dandwiki.com/wiki/Modron_\(5e_Race\))
 
-A Python being of routine and perfect order using Pandas to clean CSVs.
+A Python being of routine and perfect order. Uses Pandas to clean CSVs.
 
 ## Compatibility
 
